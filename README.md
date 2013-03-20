@@ -1,4 +1,6 @@
 rkfl
 ====
 
-loadtest
+npm install
+
+node single.js

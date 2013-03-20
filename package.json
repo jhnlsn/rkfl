@@ -1,0 +1,8 @@
+{
+  "name":"nodeload_load_tests",
+  "description": "Test load speed of mysql vs couchbase",
+  "version": "0.1.0",
+  "dependencies": {
+    "nodeload":""
+  }
+}
